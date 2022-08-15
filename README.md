@@ -8,6 +8,7 @@
 
 **Технологии:** CSS, HTML. 
 
-Запуск через VS code и Live server
+Запуск через VS code → расширение Live server.
+Ссылка на сайт: https://encors.github.io/russian-travel/
 
 
