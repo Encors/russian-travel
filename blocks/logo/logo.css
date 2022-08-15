@@ -1,0 +1,14 @@
+.logo {
+  background-image: url(../../images/logo_russia.png);
+  width: 176px;
+  min-height: 52px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 320px) {
+  .logo {
+    max-width: 142px;
+    min-height: 42px;
+  }
+}
