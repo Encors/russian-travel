@@ -27,8 +27,11 @@
 
 @media screen and (max-width: 640px) {
   .place {
-    display: block;
+    display: flex;
+    flex-direction: column;
     width: 100%;
+    align-items: center;
+    text-align: center;
   }
 }
 
@@ -37,6 +40,7 @@
     display: block;
     max-width: 320px;
     padding-bottom: 50px;
+    text-align: start;
   }
 }
 
